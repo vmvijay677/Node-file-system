@@ -1,6 +1,6 @@
 The internal clock in JavaScript starts from Jan 1, 1970.
-Today, Tue Mar 29 2022 19:00:02 GMT+0530 (India Standard Time)
-The total number of minutes from Jan 1, 1970 to till date are 27476010
+Today, Tue Mar 29 2022 19:41:48 GMT+0530 (India Standard Time)
+The total number of minutes from Jan 1, 1970 to till date are 27476052
 The total number of hours from Jan 1, 1970 to till date are 457934
 The total number of days from Jan 1, 1970 to till date are 19081
 The total number of years from Jan 1, 1970 to till date are 52
